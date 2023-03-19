@@ -1,0 +1,6 @@
+cachelib==0.10.2
+matplotlib==3.7.1
+psutil==5.9.4
+pynvml==11.5.0
+selenium==4.8.2
+WMI==1.5.1
